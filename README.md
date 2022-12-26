@@ -1,7 +1,5 @@
-# Template web
-template para usar nos estudos de web front-end.
+# Tela de Login da DIO em React
 
-Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/template-de-web/)
 <br>
 
 <p align="center">
@@ -14,7 +12,6 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 ---
 
 <br>
-
 
 <p align="center">
 <b> Visual mobile </b>
@@ -29,6 +26,7 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 <br>
 
 ## Outros projetinhos
+
 [<img align="left" width="25" url="https://github.com/souvitorgabriel" src="https://avatars0.githubusercontent.com/u/29991853?s=460&u=416e49036d2486832c45c6cb26c65e24690a3c8a&v=4">](https://github.com/souvitorgabriel) [@SouVitorGabriel](https://github.com/souvitorgabriel) Projetos pessoais podem ser vistos no meu perfil.
 
 <br>
@@ -40,5 +38,6 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 <br>
 
 ## Licença
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)  
 [GNU General Public License v3.0](LICENSE)
